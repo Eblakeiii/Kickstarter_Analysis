@@ -9,7 +9,8 @@ The client had a previously failed Theater/Play campaign and has requested this 
 Analysis began with general inspection of the data.  There were 4,114 records covering the period of May 2009 through May 2017.  For the most part, the data was clean but did notice the “id” identifier started at zero (0).  Ideally, a unique identifier would not be zero.  When verifying counts, manual adjustments were made to maintain accuracy.  
 Most notable issues were the two date fields, “deadline” and “launched_at” as they were formatted in Unix time.  Two new fields were created, “End Date” and “Launch Date” respectively, to store the converted Unix to Human-Readable Dates.  
 
-Other fields were also created to assist in the analysis: “% Funded”, “Avg Donation” and “Days to Complete”.  
+Other fields were also created to assist in the analysis: “% Funded”, “Avg Donation” and “Days to Complete”.  % Funded was calculated by Pledged Amount divided by Goal Amount.  Avg Donation was calculated by Pledged Amount divided by number of donations made.  Days to Complete was calculated by taking the End Date less Launch Date - essentially the difference in the number of days. 
+
 To perform the requested analysis, the data was filtered for only “Successful”, “Failed” and “Canceled”, which totals 4,064 records.  The remaining 50 (of 4,114) were classified as “Live” and were excluded from the study.  The dataset included all countries and all categories.
 
 ## Results
