@@ -15,10 +15,10 @@ To perform the requested analysis, the data was filtered for only “Successful�
 
 ## Results
 ### Analysis of Outcomes Based on Launch Date
-Two conclusions were drawn regarding Theater Outcomes based on Launch Date.  The first is that most successful outcomes launch in May.  Since the average days to complete the campaign is slightly under a month, one would expect to be fully pledged by June.  The second conclusion is that failed outcomes occur evenly (for the most part) across all months.
+Two conclusions were drawn regarding Theater Outcomes based on Launch Date.  The first is that most successful outcomes launch in May.  Since the average days to complete the campaign is slightly under a month, one would expect to be fully pledged by June.  The second conclusion is that failed outcomes occur evenly (for the most part) across all months.  Please see [chart](
 
 ### Analysis of Outcomes Based on Goals
-Analysis about the Outcomes based on Goals was that two Goal amount levels have the highest success rate.  The dollar levels are less than $1,000 and $1,000 to $4,999.  These success rates are 71% and 66% respectively.  As expected, the failure rates increased with larger Goal amounts, ranging from 37% to 58%.  The combined failure rate for campaigns over $5,000 is 45%.
+Analysis about the Outcomes based on Goals was that two Goal amount levels have the highest success rate.  The dollar levels are less than $1,000 and $1,000 to $4,999.  These success rates are 71% and 66% respectively.  As expected, the failure rates increased with larger Goal amounts, ranging from 37% to 58%.  The combined failure rate for campaigns over $5,000 is 45%.  Please see [chart](
 
 ### Challenges and Difficulties Encountered
 Limitations of the dataset: 1) unable to validate any of the components; 2) unable to determine if  campaigns were excluded – no way to verify a completeness of dataset; 3) unable to determine if online marketing – or other non-quantitative circumstances - had a role in its success or failure.
