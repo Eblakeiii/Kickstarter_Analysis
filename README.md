@@ -15,7 +15,7 @@ To perform the requested analysis, the data was filtered for only â€œSuccessfulâ
 
 ## Results
 ### Analysis of Outcomes Based on Launch Date
-Two conclusions were drawn regarding Theater Outcomes based on Launch Date.  The first is that most successful outcomes launch in May.  Since the average days to complete the campaign is slightly under a month, one would expect to be fully pledged by June.  The second conclusion is that failed outcomes occur evenly (for the most part) across all months.  Please see [chart](
+Two conclusions were drawn regarding Theater Outcomes based on Launch Date.  The first is that most successful outcomes launch in May.  Since the average days to complete the campaign is slightly under a month, one would expect to be fully pledged by June.  The second conclusion is that failed outcomes occur evenly (for the most part) across all months.  Please see [chart](https://github.com/Eblakeiii/Kickstarter_Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png.png)
 
 ### Analysis of Outcomes Based on Goals
 Analysis about the Outcomes based on Goals was that two Goal amount levels have the highest success rate.  The dollar levels are less than $1,000 and $1,000 to $4,999.  These success rates are 71% and 66% respectively.  As expected, the failure rates increased with larger Goal amounts, ranging from 37% to 58%.  The combined failure rate for campaigns over $5,000 is 45%.  Please see [chart](https://github.com/Eblakeiii/Kickstarter_Analysis/blob/master/Resources/Outcomes_vs_Goals.png.png)
